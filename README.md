@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rafaeljaber/rafaeljaber/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Medias</h2>
 
 ###
