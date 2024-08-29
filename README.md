@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java and C# Developer<br>- FrontEnd Developer<br>- Swift Lovely</p>
+<p align="left">- Java and C# Developer<br>- FrontEnd Developer</p>
 
 ###
 
