@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">- Java and C# Developer<br>- FrontEnd Developer</p>
+<p>Como desenvolvedor de Software Back-End com sólida experiência em Java e seus principais frameworks, como Spring Boot, Flyway, MapStruct e Spring Data JPA, minha paixão por construir soluções robustas e escaláveis me motiva a estar sempre atualizado com as últimas tendências e melhores práticas do mercado.</p>
+
+<p>Além disso, possuo experiência em Desenvolvimento Front-End, utilizando frameworks como Angular, NextJs, React, React Native, Ionic e Tailwind CSS, além de conhecimentos em desenvolvimento nativo com Swift para iPhones e iPads.</p>
+
+<p>Com mais de 5 anos de experiência em empresas do setor de tecnologia, desenvolvi aplicações voltadas para a otimização de processos com IA e softwares responsáveis por integrações entre sistemas por meio de APIs que utilizam padrões REST. Tenho experiência com bancos de dados relacionais, como PostgreSQL e MySQL, além de bancos de dados não relacionais, como MongoDB. Também implementei soluções de mensageria utilizando Kafka e RabbitMQ.</p>
+
+<p>Atualmente, estou explorando tecnologias emergentes e práticas de DevOps para otimizar o ciclo de vida de desenvolvimento e entrega contínua. Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores. Minha abordagem focada em resultados e minhas habilidades em resolução de problemas me permitem contribuir significativamente para equipes de alta performance.</p>
+
+<p>Estou ampliando meus conhecimentos em microserviços, arquitetura Hexagonal e DDD, e busco constantemente implementar testes unitários utilizando métodos como TDD e BDD.</p>
 
 ###
 
